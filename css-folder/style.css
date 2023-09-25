@@ -30,15 +30,11 @@ h5{
 #yellow{
     background-color: yellow;
 }
-
-.table1{
-    background-color:#6495ED;
+.table-overview{
     font-weight: bold;
     color: white;
+    background-color: #0096FF;
 }
-.lorem1{
-    padding-right: 100px;
-}
-.table2{
-    background-color: #89CFF0;
+.bluerow{
+    background-color: #7DF9FF;
 }
