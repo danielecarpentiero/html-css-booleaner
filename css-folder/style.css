@@ -1,0 +1,10 @@
+header{
+    height: 100px;
+    background-color: aqua;
+}
+
+#pattern{
+    height: auto;
+    max-width: 100%;
+    background-repeat: repeat;
+}
