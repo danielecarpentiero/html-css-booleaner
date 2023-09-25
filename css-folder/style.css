@@ -41,4 +41,8 @@ h5{
 #advertisement{
     color: gray;
     font-weight: bold;
+    margin-bottom: 15px;
+}
+#pic1, #pic2{
+    margin-bottom: 15px;
 }
