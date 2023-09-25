@@ -3,9 +3,9 @@ body{
 }
 header{
     height: 120px;
-    background-color: aqua;
+    background-color: #0096FF;
     background-image: url(../img/img/pattern.png);
-    background-size: 22%;
+    background-size: 12%;
 }
 #the-booleaner{
     width: 10%;
@@ -15,7 +15,7 @@ h3{
     font-size: 20px;
     color: gray
 }
-span{
+#booleaner{
     color: blue
 }
 h5{
@@ -25,4 +25,8 @@ h5{
 
 .picture-description{
     font-size: 10px;
+}
+
+span{
+    background-color: yellow;
 }
