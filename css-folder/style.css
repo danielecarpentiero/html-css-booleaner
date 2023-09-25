@@ -27,7 +27,7 @@ h5{
     font-size: 10px;
 }
 
-#yellow{
+.yellow{
     background-color: yellow;
 }
 .table-overview{
@@ -37,4 +37,8 @@ h5{
 }
 .bluerow{
     background-color: #7DF9FF;
+}
+#advertisement{
+    color: gray;
+    font-weight: bold;
 }
